@@ -27,13 +27,13 @@ nodejs
 - 2.
 模块 与 Common.js
 
- 依赖关系 ----|　　　　　　　　　　　　定义
- 命名空间 --->|  ` 纠结的编程体验 `　　　　　标识
- 代码组织 ----|　　　　　　　　　　　　引用
-模块的分类
-`核心模块`   如  http fs path
-`文件模块`   如  var util = require('./util.js')
-`第三方模块` 如  var promise = require('bulebird')
+ 依赖关系 ----|　　　　　　　　　　　　定义  
+ 命名空间 --->|  ` 纠结的编程体验 `　　　　　标识  
+ 代码组织 ----|　　　　　　　　　　　　引用  
+模块的分类  
+`核心模块`   如  http fs path  
+`文件模块`   如  var util = require('./util.js')  
+`第三方模块` 如  var promise = require('bulebird')  
 
 - 3.
 HTTP
